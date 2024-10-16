@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                                 BARAKA-MD-BOT 
+<p align="center">                                                 LEVII-GD-BOT
 
 
 </p>
@@ -30,7 +30,7 @@
 
 
 
-## `BARAKA-MD-BOT FEATURES` 
+## `LEVII-GD-BOT FEATURES` 
 
 
 
